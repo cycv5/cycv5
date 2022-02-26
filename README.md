@@ -3,7 +3,7 @@
 
 ## I'm a Computer Science specialist student @ University of Toronto.
 
-- 🔭 Focus in ML algorithms
+- 🔭 Focus: ML algorithms/AI technologies
 - 🌱 Learning everything about programming 🤣
 - 👯 Incoming software developer @ Zebra Technologies
 

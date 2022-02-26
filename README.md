@@ -1,7 +1,7 @@
 ### Hi there, I'm Yichen Cai - aka Charles 👋 
 
 
-## I'm CS specialist student @ University of Toronto.
+## I'm a Computer Science specialist student @ University of Toronto.
 
 - 🔭 Focus in ML algorithms
 - 🌱 Learning everything about programming 🤣

@@ -5,7 +5,7 @@
 
 - 🔭 Focus: ML algorithms/AI technologies
 - 🌱 Learning everything about programming 🤣
-- 👯 Incoming software developer @ Zebra Technologies
+- 👯 Current software developer (intern) @ Zebra Technologies
 
 ### Connect with me:
 

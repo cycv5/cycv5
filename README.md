@@ -7,6 +7,8 @@
 - 🌱 Learning everything about programming 🤣
 - 👯 Current software developer (intern) @ Zebra Technologies
 
+### Current Highlight:
+The repository [AICityChallenge](https://github.com/cycv5/AICityChallenge) is in [Nvidia's code-from-top-team repo](https://github.com/NVIDIAAICITYCHALLENGE/2023AICITY_Code_From_Top_Teams).
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

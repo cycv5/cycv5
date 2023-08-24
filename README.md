@@ -5,10 +5,10 @@
 
 - 🔭 Focus: ML algorithms/AI technologies
 - 🌱 Learning everything about programming 🤣
-- 👯 Current software developer (intern) @ Zebra Technologies
+- 👯 The repository [AICityChallenge](https://github.com/cycv5/AICityChallenge) is in [Nvidia's code-from-top-team repo](https://github.com/NVIDIAAICITYCHALLENGE/2023AICITY_Code_From_Top_Teams).
 
 ### Current Highlight:
-The repository [AICityChallenge](https://github.com/cycv5/AICityChallenge) is in [Nvidia's code-from-top-team repo](https://github.com/NVIDIAAICITYCHALLENGE/2023AICITY_Code_From_Top_Teams).
+[Social Learning in Multi-Agent Systems with Deep Learning RL](https://github.com/cycv5/marl). Supervior: Professor [Peter Marbach](https://www.cs.toronto.edu/~marbach/index.html).
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

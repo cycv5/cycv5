@@ -9,6 +9,7 @@
 
 ### Current Highlight:
 [Social Learning in Multi-Agent Systems with Deep Learning RL](https://github.com/cycv5/marl). Supervior: Professor [Peter Marbach](https://www.cs.toronto.edu/~marbach/index.html).
+[Mini Database Design and Implementation](https://github.com/cycv5/MiniDatabase).
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

@@ -3,7 +3,7 @@
 
 ## I'm a Computer Science specialist student @ University of Toronto.
 
-- 🔭 Focus: ML algorithms/AI technologies
+- 🔭 Focus: Software development/AI technologies
 - 🌱 Learning everything about programming 🤣
 - 👯 The repository [AICityChallenge](https://github.com/cycv5/AICityChallenge) is in [Nvidia's code-from-top-team repo](https://github.com/NVIDIAAICITYCHALLENGE/2023AICITY_Code_From_Top_Teams).
 

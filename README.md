@@ -1,7 +1,7 @@
 ### Hi there, I'm Yichen Cai - aka Charles 👋 
 
 
-## I'm a Computer Science specialist student @ University of Toronto.
+## I'm a Master student in Applied Computing (MScAC) @ University of Toronto.
 
 - 🔭 Focus: Software development/AI technologies
 - 🌱 Learning everything about programming 🤣
